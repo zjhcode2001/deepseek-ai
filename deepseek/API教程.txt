@@ -1,0 +1,8 @@
+
+《API》
+
+启动API：
+bash /root/deepseek/chuli/API/启动API.sh
+
+推理API:
+bash /root/deepseek/chuli/API/推理API.sh

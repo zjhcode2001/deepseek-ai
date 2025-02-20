@@ -1,0 +1,8 @@
+VLLM API启动：
+
+首先启动后端指令：
+bash /root/deepseek/chuli/vllm/vllm后端.sh
+
+其次运行python:
+
+python /root/deepseek/vllm/chat.py
